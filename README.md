@@ -73,6 +73,8 @@
 
 ## *思考香港1*
 
+ ![alt-text](https://github.com/anguschiu1/testbook/blob/master/思考香港1.png "論香港獨立：踩在紅線上的思考")
+
 ### *論香港獨立：踩在紅線上的思考*
 
 ### 1  香港獨立的迷思
