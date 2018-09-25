@@ -1,4 +1,4 @@
-# 思考香港系列 [(下載PDF)](https://github.com/bennytai/HongKongReflections/releases/download/v1.0/HongKongReflections-01-v1.0.pdf)
+# 思考香港系列 [(下載PDF)](https://github.com/bennytai/HongKongReflections/releases/download/v1.0/HongKongReflections-01-v1.0.pdf)
 
 ## **作者**
 
