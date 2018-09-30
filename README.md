@@ -16,6 +16,7 @@
 [PDF](https://github.com/bennytai/HongKongReflections/releases/download/v1.0/HongKongReflections-01-v1.0.pdf)
 
 ## [思考香港2 -- 香港的未來：跳出框框的思考](./思考香港2.md)
+[PDF](https://github.com/bennytai/HongKongReflections/releases/download/v2.0/HongKongReflections-02-v1.0.pdf)
 
 ## [思考香港3 -- 法治的挑戰：威權下的思考](./思考香港3.md)
 
