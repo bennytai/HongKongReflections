@@ -6,7 +6,6 @@
 # Icon must end with two \r
 Icon
 
-
 # Thumbnails
 ._*
 
@@ -25,3 +24,11 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# GitBook
+.grunt
+node_modules
+_book
+*.epub
+*.mobi
+*.pdf
