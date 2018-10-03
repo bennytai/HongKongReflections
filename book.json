@@ -1,0 +1,7 @@
+{
+    "gitbook": "3.2.3",
+    "title": "思考香港系列",
+    "author": "Benny Y. T. Tai",
+    "language": "zh-HK",
+    "plugins": ["collapsible-menu"]
+}

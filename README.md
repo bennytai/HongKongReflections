@@ -1,8 +1,10 @@
+([網頁瀏覽](https://bennytai.github.io/HongKongReflections))
 (下載PDF [系列1](https://github.com/bennytai/HongKongReflections/releases/download/v1.0/HongKongReflections-01-v1.0.pdf) [系列2](https://github.com/bennytai/HongKongReflections/releases/download/v2.1/HongKongReflections-02-v1.1.pdf)）
 # 思考香港系列
+
 ## **作者**
 
-![alt-text](./images/profile_pic.jpg "戴耀廷")
+ ![alt-text](./images/profile_pic.jpg "戴耀廷")
 
 （獲廖中仁先生授權使用此相片）
 
@@ -15,7 +17,7 @@
 ## [思考香港1 -- 論香港獨立：踩在紅線上的思考](./思考香港1/README.md)
 [PDF](https://github.com/bennytai/HongKongReflections/releases/download/v1.0/HongKongReflections-01-v1.0.pdf)
 
-## [思考香港2 -- 香港的未來：跳出框框的思考](./思考香港2.md)
+## [思考香港2 -- 香港的未來：跳出框框的思考](./思考香港2/README.md)
 [PDF](https://github.com/bennytai/HongKongReflections/releases/download/v2.1/HongKongReflections-02-v1.1.pdf)
 
 ## [思考香港3 -- 法治的挑戰：威權下的思考](./思考香港3.md)
