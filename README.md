@@ -13,15 +13,3 @@
 戴耀廷主要的研究範圍包括香港特別行區基本法、比較憲法、行政法、人權法、宗教與法律、法律與政治、法律與管治、法治與法律文化。
 
 在2013年，他推動「讓愛與和平佔領中環」運動，爭取在香港實現民主普選。在2016年，在立法會選舉中推動「雷動計劃」，爭取非建制派取得過半議席，及鼓勵選民策略投票。在2017年，他提出「風雲計劃」，希望反專制人士能取得超過一半的區議會議席。
-<!-- 
-## [思考香港1 -- 論香港獨立：踩在紅線上的思考](./思考香港1/README.md)
-[PDF](https://github.com/bennytai/HongKongReflections/releases/download/v1.0/HongKongReflections-01-v1.0.pdf)
-
-## [思考香港2 -- 香港的未來：跳出框框的思考](./思考香港2/README.md)
-[PDF](https://github.com/bennytai/HongKongReflections/releases/download/v2.1/HongKongReflections-02-v1.1.pdf)
-
-## 思考香港3 -- 法治的挑戰：威權下的思考
-
-## 思考香港4 -- 雷動：策略的思考
-
-## 思考香港5 -- 抗爭：靈性的思考 -->
