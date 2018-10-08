@@ -29,6 +29,6 @@ Temporary Items
 .grunt
 node_modules
 _book
-*.epub
-*.mobi
-*.pdf
+#*.epub
+#*.mobi
+#*.pdf
