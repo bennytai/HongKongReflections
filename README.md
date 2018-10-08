@@ -7,6 +7,7 @@
 
 [思考香港系列 2：《香港的未來： 跳出框框的思考》](https://github.com/bennytai/HongKongReflections/releases/download/v2.1/HongKongReflections-02-v1.1.pdf)
 
+[思考香港系列 3：《法治的挑戰： 威權下的思考》](https://github.com/bennytai/HongKongReflections/releases/download/v2.1/HongKongReflections-03-v1.0.pdf)
 
 ## **作者**
 
