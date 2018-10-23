@@ -13,6 +13,8 @@
 
 [思考香港系列 4：《雷動： 策略的思考》](https://github.com/bennytai/HongKongReflections/releases/download/v4.0/HongKongReflections-04-v1.0.pdf)
 
+[思考香港系列 5：《抗爭： 靈性的思考》](https://github.com/bennytai/HongKongReflections/releases/download/v5.0/HongKongReflections-05-v1.0.pdf)
+
 ## **作者**
 
 ![alt-text](./images/profile_pic.jpg "戴耀廷")
