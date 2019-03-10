@@ -15,7 +15,7 @@
 
 [思考香港系列 5：《抗爭： 靈性的思考》](https://github.com/bennytai/HongKongReflections/releases/download/v5.0/HongKongReflections-05-v1.0.pdf)
 
-[思考香港系列 6：《罪名是散播希望： 希望的思考》](https://github.com/bennytai/HongKongReflections/releases/download/v5.0/HongKongReflections-06-v1.0.pdf)
+[思考香港系列 6：《罪名是散播希望： 希望的思考》](https://github.com/bennytai/HongKongReflections/releases/download/v6.0/HongKongReflections-06-v1.0.pdf)
 
 ## **作者**
 
