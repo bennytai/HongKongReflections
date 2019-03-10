@@ -167,10 +167,9 @@
 * [思考香港6：《罪名是散播希望： 希望的思考》](思考香港6/README.md)
     * [前言](思考香港6/前言.md)
     * [Preface](思考香港6/Preface.md)
-    * [1  公民抗命的最大殺傷力武器](思考香港6/1--勇氣.md)
+    * [1  公民抗命的最大殺傷力武器](思考香港6/1--公民抗命的最大殺傷力武器.md)
     * [2  The Most Lethal Weapon of Civil Disobedience](思考香港6/2--The Most Lethal Weapon of Civil Disobedience.md)
     * [3  首次陳詞、最後一課](思考香港6/3--首次陳詞、最後一課.md)
     * [4  First Submission, Last Lecture](思考香港6/4--First Submission, Last Lecture.md)
     * [作者](思考香港6/作者.md)
-    * [Author](思考香港6/Author.md)
     
